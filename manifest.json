@@ -1,0 +1,45 @@
+{
+  "data": {
+    "structure": {
+      "dimensions": [
+        {
+          "id": "month",
+          "name": "Month",
+          "dataType": "STRING"
+        }
+      ],
+      "metrics": [
+        {
+          "id": "metric1",
+          "name": "Metric 1",
+          "dataType": "NUMBER"
+        },
+        {
+          "id": "metric2",
+          "name": "Metric 2",
+          "dataType": "NUMBER"
+        },
+        {
+          "id": "metric3",
+          "name": "Metric 3",
+          "dataType": "NUMBER"
+        },
+        {
+          "id": "difference",
+          "name": "Difference",
+          "dataType": "NUMBER"
+        }
+      ]
+    }
+  },
+  "options": {
+    "supportsMultipleDimensions": false,
+    "supportsMultipleMetrics": true
+  },
+  "style": {
+    "isHorizontal": true,
+    "showScrollBar": false,
+    "supportsCustomTextStyle": true
+  },
+  "componentUrl": "https://your-custom-visualization-url.com"
+}
