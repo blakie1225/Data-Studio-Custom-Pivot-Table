@@ -41,5 +41,6 @@
     "showScrollBar": false,
     "supportsCustomTextStyle": true
   },
+  
   "componentUrl": "https://raw.githubusercontent.com/blakie1225/Data-Studio-Custom-Pivot-Table/main/visualisation.js"
 }
